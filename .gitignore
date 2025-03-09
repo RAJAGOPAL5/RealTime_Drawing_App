@@ -1,0 +1,13 @@
+# Node.js dependencies (ignore node_modules)
+node_modules/
+
+# Build output (ignore build folder)
+build/
+
+# Logs (ignore logs generated during development)
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# VSCode settings (ignore local VSCode settings)
+.vscode/
